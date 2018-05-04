@@ -1,0 +1,16 @@
+c:\users\елена\documents\visual studio 2015\Projects\Motivation\QuotesApp\bin\Debug\QuotesApp.exe.config
+c:\users\елена\documents\visual studio 2015\Projects\Motivation\QuotesApp\bin\Debug\QuotesApp.exe
+c:\users\елена\documents\visual studio 2015\Projects\Motivation\QuotesApp\bin\Debug\QuotesApp.pdb
+c:\users\елена\documents\visual studio 2015\Projects\Motivation\QuotesApp\obj\Debug\QuotesApp.csprojResolveAssemblyReference.cache
+c:\users\елена\documents\visual studio 2015\Projects\Motivation\QuotesApp\obj\Debug\MainWindow.g.cs
+c:\users\елена\documents\visual studio 2015\Projects\Motivation\QuotesApp\obj\Debug\App.g.cs
+c:\users\елена\documents\visual studio 2015\Projects\Motivation\QuotesApp\obj\Debug\QuotesApp_MarkupCompile.cache
+c:\users\елена\documents\visual studio 2015\Projects\Motivation\QuotesApp\obj\Debug\QuotesApp_MarkupCompile.lref
+c:\users\елена\documents\visual studio 2015\Projects\Motivation\QuotesApp\obj\Debug\MainWindow.baml
+c:\users\елена\documents\visual studio 2015\Projects\Motivation\QuotesApp\obj\Debug\QuotesApp.g.resources
+c:\users\елена\documents\visual studio 2015\Projects\Motivation\QuotesApp\obj\Debug\QuotesApp.Properties.Resources.resources
+c:\users\елена\documents\visual studio 2015\Projects\Motivation\QuotesApp\obj\Debug\QuotesApp.csproj.GenerateResource.Cache
+c:\users\елена\documents\visual studio 2015\Projects\Motivation\QuotesApp\obj\Debug\QuotesApp.exe
+c:\users\елена\documents\visual studio 2015\Projects\Motivation\QuotesApp\obj\Debug\QuotesApp.pdb
+c:\users\елена\documents\visual studio 2015\Projects\Motivation\QuotesApp\bin\Debug\System.Runtime.WindowsRuntime.dll
+c:\users\елена\documents\visual studio 2015\Projects\Motivation\QuotesApp\bin\Debug\System.Runtime.WindowsRuntime.xml
